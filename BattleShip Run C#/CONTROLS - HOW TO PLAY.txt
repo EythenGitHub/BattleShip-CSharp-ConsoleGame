@@ -1,0 +1,48 @@
+SOURCE CODE ON GITHUB!
+IF YOU NOTICE ANY BUGS ON ANY OF MY GAMES DM ME ON DISCORD!
+https://discord.gg/XRnZQw7PsV
+
+So first off extract the file and run the game by double clicking on BattleShip file.
+
+Then once it's loaded in, you can use these controls...
+
+You'll first see this.
+
+A: 1 2 3
+B: 1 2 3
+C: 1 2 3
+
+When you open the application, you can type any of these things in (Remember to press the ENTER key on your keyboard to register your input)
+
+A: (Number of choice to place your ship)
+B: (Number of choice to place your ship)
+C: (Number of choice to place your ship)
+
+Example: If you enter in A: 1 then the board will look like this
+
+A: 0 2 3
+B: 1 2 3
+C: 1 2 3
+
+You can place 3 ships, Example again: A: 1 | B: 2 | C: 3 it will look like this
+
+A: 0 2 3
+B: 1 0 3
+C: 1 2 0
+
+Now place your ships...
+
+NEXT (Now to play the game)
+
+When it says to "Enter in your code"
+It's referring to in normal BattleShip where you have to guess where the enemy's ship is.
+So you can say any Letter: Number like before
+
+Example: You say A: 1
+The Bot doesn't have a ship at A: 1
+It will say Incorrect! and the Bot will have it's turn...
+It will select a random coordinate and if it gets it right you lose a ship! If the Bot gets it wrong nothing happens! Repeat until someone wins!
+
+
+I hope you enjoy!
+Any questions go to my discord.
